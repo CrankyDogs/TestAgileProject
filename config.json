@@ -1,0 +1,11 @@
+{
+  "NavApiBaseUrl": "http://20.191.137.234:7028/",
+  "NavPath": "BC160/ODataV4/",
+  "NavCompanyName": "'Autoparts%20International%20Pvt.%20L'",
+  "NavCompanyId": "'Autoparts%20International%20Pvt.%20L'",
+  "LiveCompanyId": "'a8d4d0e3-e3c0-ea11-8dab-005056b93177'",
+  "IsDev": true,
+  "IsNtlmAuthentication": false,
+  "NavUserName": null,
+  "NavPassword": null
+}
