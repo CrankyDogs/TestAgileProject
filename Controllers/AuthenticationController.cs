@@ -28,7 +28,7 @@ namespace TestProjLarge.Controllers
         [HttpPost]
 
         public IActionResult Authentication([FromBody] login data)
-        {
+            {
             NavApiConfig config = ConfigJSON.Read();
             config.NavUserName = data.Username;
             config.NavPassword = data.Password;
